@@ -1,2 +1,6 @@
 11111122222211133333333333333333333
+<<<<<<< HEAD
 1234567891
+=======
+44444444
+>>>>>>> branch 'main' of https://github.com/programmerHC/study.git
